@@ -1,8 +1,9 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/doSomething.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Images\singlePart.cs">
     <Files>
-      <File FileName="Assets/doSomething.cs" Line="10" Column="32" />
+      <File FileName="Assets\Images\testBodyPart.cs" Line="39" Column="2" />
+      <File FileName="Assets\Images\singlePart.cs" Line="34" Column="18" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
